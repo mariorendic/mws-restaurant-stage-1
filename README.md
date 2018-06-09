@@ -1,6 +1,6 @@
-# Mobile Web Specialist Certification Course
+# FRONTEND COURSE
 ---
-#### _Three Stage Course Material Project - Restaurant Reviews_
+#### First Stage Course - Restaurant Reviews
 
 ## Project Overview: Stage 1
 
